@@ -68,15 +68,21 @@ Repeat until the selected pattern is completed.
 
 Sample Output
 
-For 4 rows (Floyd’s Triangle):
-
+====== PATTERN LOGIC TOOL ======
+1. Right Triangle Number Pattern
+2. Reverse Right Triangle Pattern
+3. Same Number Triangle
+4. Number Pyramid Pattern
+5. Reverse Number Pyramid
+6. Floyd's Triangle
+7. Continuous Number Pattern
+Enter your choice: 2
+Enter number of rows: 5
+1 2 3 4 5 
+1 2 3 4
+1 2 3
+1 2
 1
-2 3
-4 5 6
-7 8 9 10
-
-How to Run
-
 Open VS Code.
 
 Create a file named pattern_logic_tool.c.
